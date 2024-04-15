@@ -1,7 +1,7 @@
 # Leetcode
 
 ## Hashmap
-- [ ] Ransom Note
+- [ ] [Ransom Note](hashmap/ransom-note.py)
 - [ ] Isomorphic Strings 
 - [ ] Word Pattern
 - [ ] Valid Anagram
