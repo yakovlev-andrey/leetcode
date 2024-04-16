@@ -5,7 +5,7 @@
 - [ ] Isomorphic Strings 
 - [ ] Word Pattern
 - [X] [Valid Anagram](hashmap/valid-anagram.py)
-- [ ] Group Anagrams
+- [X] [Group Anagrams](hashmap/group-anagrams.py)
 - [X] [Two Sum](hashmap/two-sum.py)
 - [ ] Happy Number
 - [ ] Contains Duplicate II
