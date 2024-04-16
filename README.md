@@ -10,3 +10,11 @@
 - [ ] Happy Number
 - [ ] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
+
+## Math
+- [X] [Palindrome Number](math/palindrome-number.py)
+- [ ] Plus One
+- [ ] Factorial Trailing Zeroes
+- [ ] Sqrt(x)
+- [ ] Pow(x, n)
+- [ ] Max Points on a Line
