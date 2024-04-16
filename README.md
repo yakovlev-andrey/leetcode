@@ -13,7 +13,7 @@
 
 ## Math
 - [X] [Palindrome Number](math/palindrome-number.py)
-- [ ] Plus One
+- [X] [Plus One](math/plus-one.py)
 - [ ] Factorial Trailing Zeroes
 - [ ] Sqrt(x)
 - [ ] Pow(x, n)
