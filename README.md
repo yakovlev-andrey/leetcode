@@ -44,7 +44,7 @@
 - [ ] Longest Consecutive Sequence
 
 ## Intervals
-- [X] Summary Ranges
+- [X] [Summary Ranges](intervals/summary-ranges.py)
 - [ ] Merge Intervals
 - [ ] Insert Interval
 - [ ] Minimum Number of Arrows to Burst Balloons
