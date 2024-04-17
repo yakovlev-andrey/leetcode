@@ -43,6 +43,12 @@
 - [ ] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
 
+## Intervals
+- [X] Summary Ranges
+- [ ] Merge Intervals
+- [ ] Insert Interval
+- [ ] Minimum Number of Arrows to Burst Balloons
+
 ## Math
 - [X] [Palindrome Number](math/palindrome-number.py)
 - [X] [Plus One](math/plus-one.py)
@@ -50,3 +56,10 @@
 - [ ] Sqrt(x)
 - [ ] Pow(x, n)
 - [ ] Max Points on a Line
+
+## 1D DP
+- [ ] Climbing Stairs
+- [ ] House Robber
+- [ ] Word Break
+- [ ] Coin Change
+- [ ] Longest Increasing Subsequence
