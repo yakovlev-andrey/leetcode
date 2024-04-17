@@ -25,6 +25,13 @@
 - [ ] Find the Index of the First Occurrence in a String
 - [ ] Text Justification
 
+## Two Pointers
+- [ ] Valid Palindrome
+- [ ] Is Subsequence
+- [ ] Two Sum II - Input Array Is Sorted
+- [ ] Container With Most Water
+- [ ] 3Sum
+
 ## Hashmap
 - [X] [Ransom Note](hashmap/ransom-note.py)
 - [ ] Isomorphic Strings 
