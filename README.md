@@ -58,7 +58,7 @@
 - [ ] Max Points on a Line
 
 ## 1D DP
-- [ ] Climbing Stairs
+- [X] [Climbing Stairs](1d-dp/climbing-stairs.py)
 - [ ] House Robber
 - [ ] Word Break
 - [ ] Coin Change
