@@ -26,7 +26,7 @@
 - [ ] Text Justification
 
 ## Two Pointers
-- [ ] Valid Palindrome
+- [X] [Valid Palindrome](two-pointers/valid-palindrome.py)
 - [ ] Is Subsequence
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] Container With Most Water
