@@ -53,7 +53,7 @@
 - [X] [Palindrome Number](math/palindrome-number.py)
 - [X] [Plus One](math/plus-one.py)
 - [ ] Factorial Trailing Zeroes
-- [ ] Sqrt(x)
+- [X] [Sqrt(x)](math/sqrt.py)
 - [ ] Pow(x, n)
 - [ ] Max Points on a Line
 
