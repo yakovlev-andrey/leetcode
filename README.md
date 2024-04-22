@@ -49,6 +49,13 @@
 - [ ] Insert Interval
 - [ ] Minimum Number of Arrows to Burst Balloons
 
+## Stack
+- [X] [Valid Parentheses](stack/valid-parentheses.py)
+- [ ] Simplify Path
+- [ ] Min Stack
+- [ ] Evaluate Reverse Polish Notation
+- [ ] Basic Calculator
+
 ## Math
 - [X] [Palindrome Number](math/palindrome-number.py)
 - [X] [Plus One](math/plus-one.py)
