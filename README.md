@@ -18,7 +18,7 @@
 - [ ] Trapping Rain Water
 - [ ] Roman to Integer
 - [ ] Integer to Roman
-- [ ] Length of Last Word
+- [X] [Length of Last Word](array-string/length-of-last-word.py)
 - [ ] Longest Common Prefix
 - [ ] Reverse Words in a String
 - [ ] Zigzag Conversion
