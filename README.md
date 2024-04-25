@@ -34,7 +34,7 @@
 
 ## Hashmap
 - [X] [Ransom Note](hashmap/ransom-note.py)
-- [ ] Isomorphic Strings 
+- [X] [Isomorphic Strings](hashmap/isomorphic-strings.py) 
 - [ ] Word Pattern
 - [X] [Valid Anagram](hashmap/valid-anagram.py)
 - [X] [Group Anagrams](hashmap/group-anagrams.py)
