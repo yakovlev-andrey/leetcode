@@ -1,5 +1,7 @@
 # Leetcode
 
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](ttps://leetcode.com/Yakovlev-Andrey/)
+
 ## Array / String
 - [ ] Merge Sorted Array
 - [ ] Remove Element
@@ -42,6 +44,7 @@
 - [ ] Happy Number
 - [ ] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
+- [ ] [Longest Ideal Subsequence](hashmap/longest-ideal-subsequence.py) :fire:
 
 ## Intervals
 - [X] [Summary Ranges](intervals/summary-ranges.py)
@@ -70,3 +73,5 @@
 - [ ] Word Break
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
+
+:fire: - Daily Challenge
