@@ -44,7 +44,7 @@
 - [ ] Happy Number
 - [ ] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
-- [ ] [Longest Ideal Subsequence](hashmap/longest-ideal-subsequence.py) :fire:
+- [X] [Longest Ideal Subsequence](hashmap/longest-ideal-subsequence.py) :fire:
 
 ## Intervals
 - [X] [Summary Ranges](intervals/summary-ranges.py)
