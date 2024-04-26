@@ -34,6 +34,14 @@
 - [ ] Container With Most Water
 - [ ] 3Sum
 
+## Matrix
+- [ ] Valid Sudoku
+- [ ] Spiral Matrix
+- [ ] Rotate Image
+- [ ] Set Matrix Zeroes
+- [ ] Game of Life
+- [x] [Minimum Falling Path Sum II](matrix/minimum-falling-path-sum-2.py) :fire:
+
 ## Hashmap
 - [X] [Ransom Note](hashmap/ransom-note.py)
 - [X] [Isomorphic Strings](hashmap/isomorphic-strings.py) 
