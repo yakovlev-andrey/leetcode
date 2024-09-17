@@ -82,4 +82,7 @@
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 
+## Uncategorized
+- [x] [Minimum Value to Get Positive Step by Step Sum](uncategorized/minimum-value-to-get-positive-step-by-step-sum.py)
+
 :fire: - Daily Challenge
