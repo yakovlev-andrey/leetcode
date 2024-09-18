@@ -4,7 +4,7 @@
 
 ## Array / String
 - [ ] Merge Sorted Array
-- [ ] Remove Element
+- [X] [Remove Element](array-string/remove-element.py)
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Duplicates from Sorted Array II
 - [ ] Majority Element
