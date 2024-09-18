@@ -16,7 +16,7 @@ s = Solution()
 
 assert s.minStartValue([-3, 2, -3, 4, 2]) == 5
 assert s.minStartValue([1, 2]) == 1
-assert s.minStartValue([1, -2, -3]) == 5 
+assert s.minStartValue([1, -2, -3]) == 5
 
 
 class Solution:
@@ -32,7 +32,7 @@ s = Solution()
 
 assert s.minStartValue([-3, 2, -3, 4, 2]) == 5
 assert s.minStartValue([1, 2]) == 1
-assert s.minStartValue([1, -2, -3]) == 5 
+assert s.minStartValue([1, -2, -3]) == 5
 
 
 class Solution:
