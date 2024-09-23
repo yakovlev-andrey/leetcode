@@ -83,6 +83,7 @@
 - [ ] Longest Increasing Subsequence
 
 ## Uncategorized
-- [x] [Minimum Value to Get Positive Step by Step Sum](uncategorized/minimum-value-to-get-positive-step-by-step-sum.py)
+- [X] [Minimum Value to Get Positive Step by Step Sum](uncategorized/minimum-value-to-get-positive-step-by-step-sum.py)
+- [X] [First Bad Version](uncategorized/first-bad-version.py)
 
 :fire: - Daily Challenge
