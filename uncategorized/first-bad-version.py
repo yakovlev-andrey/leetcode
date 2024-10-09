@@ -30,4 +30,5 @@ for n in range(10):
     for bv in range(1, n+1):
         bad_version = bv
         print(f"n = {n}, bad_version = {bad_version}")
-        assert (first_bad := s.firstBadVersion(n)) == bad_version, f"{first_bad} != {bad_version}"
+        first_bad = s.firstBadVersion(n)
+        assert first_bad == bad_version, f"{first_bad} != {bad_version}"
