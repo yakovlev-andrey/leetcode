@@ -44,7 +44,7 @@
 
 ## Hashmap
 - [X] [Ransom Note](hashmap/ransom-note.py)
-- [X] [Isomorphic Strings](hashmap/isomorphic-strings.py) 
+- [X] [Isomorphic Strings](hashmap/isomorphic-strings.py)
 - [ ] Word Pattern
 - [X] [Valid Anagram](hashmap/valid-anagram.py)
 - [X] [Group Anagrams](hashmap/group-anagrams.py)
@@ -72,7 +72,7 @@
 - [X] [Plus One](math/plus-one.py)
 - [ ] Factorial Trailing Zeroes
 - [X] [Sqrt(x)](math/sqrt.py)
-- [ ] Pow(x, n)
+- [X] Pow(x, n)(math/pow.py)
 - [ ] Max Points on a Line
 
 ## 1D DP
