@@ -72,7 +72,7 @@
 - [X] [Plus One](math/plus-one.py)
 - [ ] Factorial Trailing Zeroes
 - [X] [Sqrt(x)](math/sqrt.py)
-- [X] Pow(x, n)(math/pow.py)
+- [X] [Pow(x, n)](math/pow.py)
 - [ ] Max Points on a Line
 
 ## 1D DP
